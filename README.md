@@ -14,13 +14,11 @@ I have the motivation to work as a fullstack developer because it has challenges
 <hr/>
 
 ### 💻 Skills
-[![programming](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mui,nodejs,express,mongo&theme=dark)](https://skillicons.dev)
+![programming](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mui,nodejs,express,mongo&theme=dark)
 
 ### 🛠 Tools
-[![tools](https://skillicons.dev/icons?i=git,vscode,postman&perline=5&theme=dark)](https://skillicons.dev)
+![tools](https://skillicons.dev/icons?i=git,vscode,postman&perline=5&theme=dark)
 
-### 🤝 Collaboration
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
 ### 🔗 Connect with me
