@@ -14,12 +14,13 @@ I have the motivation to work as a fullstack developer because it has challenges
 <hr/>
 
 ### 💻 Skills
-![programming](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mui,nodejs,express,mongo&theme=dark)
+![programming](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mui,tailwind,nodejs,express,mongo&theme=dark)
 
 ### 🛠 Tools
 ![tools](https://skillicons.dev/icons?i=git,vscode,postman&perline=5&theme=dark)
 
-
+### 🌐 My Portofolio
+[https://nanahandresaputra.netlify.app/](https://nanahandresaputra.netlify.app/)
 
 ### 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanahandresaputra/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanahandre15/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=nanaggmu@gmail.com&tf=cm)
