@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=30&pause=500&color=F7F7F7&center=true&width=470&height=50&lines=Hi+there%2C+%F0%9F%91%8B+i'm+Nana+handre+saputra;Junior+web+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=30&pause=500&center=true&width=470&height=50&lines=Hi+there%2C+%F0%9F%91%8B+i'm+Nana+handre+saputra;Junior+web+developer" alt="Typing SVG" /></a>
 </div>
 <h4>Fullstack developer work with MERN technology to implement into website with the right size then deploy to hosting.
 I can collaborate with teammates in version control systems such as GitHub, manage consumes restful API, and use redux as global state management.
