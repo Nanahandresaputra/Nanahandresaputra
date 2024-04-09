@@ -25,6 +25,10 @@ I have the motivation to work as a fullstack developer because it has challenges
 ### 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanahandresaputra/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanahandre15/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=nanaggmu@gmail.com&tf=cm)
 
+### 🎯 Stats
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=nanahandresaputra&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nanahandresaputra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 
 
 
