@@ -20,7 +20,7 @@ I have the motivation to work as a fullstack developer because it has challenges
 ![tools](https://skillicons.dev/icons?i=git,vscode,postman&perline=5&theme=dark)
 
 ### 🌐 My Portofolio
-[https://nanahandresaputra.netlify.app/](https://nanahandresaputra.netlify.app/)
+[https://nana-handre-saputra.my.id/](https://nana-handre-saputra.my.id/)
 
 ### 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanahandresaputra/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanahandre15/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=nanaggmu@gmail.com&tf=cm)
