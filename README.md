@@ -28,7 +28,7 @@ I have the motivation to work as a fullstack developer because it has challenges
 ### 🎯 Stats
 <div style='display:flex;'>
     <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nanahandresaputra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-    <img src="https://streak-stats.demolab.com?user=nanahandresaputra&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=nanahandresaputra&theme=vue-dark&hide_border=true" alt="stats" />
 </div>
 
 
