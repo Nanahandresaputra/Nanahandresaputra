@@ -34,7 +34,7 @@
 <img width=400 height=220 style='object-fit:cover; border-radius:8px;'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=nanahandresaputra&theme=blueberry&show_icons=true&hide_border=true&layout=compact' />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanahandresaputra&theme=blueberry&utcOffset=7" width=430 height=220 alt="stat" />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nanahandresaputra&theme=blueberry&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=nanahandresaputra&hide_border=true&theme=blueberry&card_width=800&card_height=220" alt="GitHub Streak" />
 </div>
 
 
